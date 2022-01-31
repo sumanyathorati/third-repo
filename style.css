@@ -1,0 +1,92 @@
+#first-id {
+  background-color: lightcoral;
+  display: inline-block;
+  width: 24%;
+  padding: 5px;
+  text-align: center;
+  font-size: large;
+  max-width: 100%;
+}
+#second-id {
+  background-color: lightcoral;
+  display: inline-block;
+  width: 24%;
+  padding: 5px;
+  text-align: center;
+  font-size: large;
+  max-width: 100%;
+}
+#third-id {
+  background-color: lightcoral;
+  display: inline-block;
+  width: 24%;
+  padding: 5px;
+  text-align: center;
+  font-size: large;
+  max-width: 100%;
+}
+#fourth-id {
+  background-color: lightcoral;
+  display: inline-block;
+  width: 24%;
+  padding: 5px;
+  text-align: center;
+  font-size: large;
+  max-width: 100%;
+}
+
+.Home-page {
+  color: darkred;
+  text-align: center;
+  background-color: mediumaquamarine;
+  line-height: 50px;
+  font-family: serif;
+}
+
+.About-page {
+  color: navy;
+  text-align: center;
+  background-color: aliceblue;
+  line-height: 50px;
+  font-family: serif;
+}
+.About-page img {
+  height: 200px;
+  width: 200px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  line-height: 200px;
+}
+
+.MySkills-page {
+  color: darkred;
+  text-align: center;
+  background-color: mediumaquamarine;
+  line-height: 50px;
+  font-family: serif;
+}
+
+.Work-page {
+  color: navy;
+  text-align: center;
+  background-color: aliceblue;
+  line-height: 50px;
+  font-family: serif;
+}
+.end-1 {
+  display: inline-block;
+  width: 33.33%;
+  text-align: center;
+  float: left;
+  background-color: lightcoral;
+  line-height: 30px;
+}
+.end-1 img {
+  justify-content: center;
+  height: 90px;
+  width: 200px;
+}
+.last-page {
+  line-height: 20px;
+}
